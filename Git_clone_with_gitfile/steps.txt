@@ -1,0 +1,22 @@
+step-1
+node pygit.js init
+
+step-2
+create a new file lets say file1.txt then do 
+node pygit.js add file1.txt
+
+
+step-3 
+node pygit.js commit -m "Initial commit"
+
+
+step-4
+node pygit.js status
+
+
+step-5
+node pygit.js commit -m "Add src/app.js"
+
+
+
+there are more these are few that are most frequent 
